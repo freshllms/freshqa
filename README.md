@@ -5,7 +5,7 @@ This repository is currently a work in progress.
 Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214).
 
 ## FreshQA
-[FreshQA Oct 6, 2023](https://docs.google.com/spreadsheets/d/1dHEKPuZXWtzj_te61DqcUnStQy6oakkXRcWF_Jihy1U/edit?usp=sharing).
+[FreshQA Oct 15, 2023](https://docs.google.com/spreadsheets/d/1dHEKPuZXWtzj_te61DqcUnStQy6oakkXRcWF_Jihy1U/edit?usp=sharing).
 
 ## FreshPrompt
 Coming soon.
