@@ -8,7 +8,7 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 [FreshQA Oct 23, 2023](https://docs.google.com/spreadsheets/d/1Lk2eEaf9SpUx0HoczYLzazPBlBL6xeJzp8Y_Vnc8HSs/edit?usp=sharing).
 
 ## FreshPrompt
-[FreshPrompt Colab](https://colab.research.google.com/drive/1x0nJ6YTdACKOk7E5DUVUYHgzqxhXocqf?usp=sharing).
+[FreshPrompt Colab](https://colab.research.google.com/drive/1-tDFYUakVa0zEyyyzjSaCQXRFTL01zGi?usp=sharing).
 
 ## Citation
 If you use our data or method, please cite our paper:
