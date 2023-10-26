@@ -10,6 +10,12 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 ## FreshPrompt
 [FreshPrompt Colab](https://colab.research.google.com/drive/1-tDFYUakVa0zEyyyzjSaCQXRFTL01zGi?usp=sharing).
 
+## Sponsors
+
+We are grateful to [SerpApi](https://serpapi.com) for their generous sponsorship of 10000 searches for FreshPrompt.
+
+[<img src='serpapi.png' width='75'>](https://serpapi.com)
+
 ## Citation
 If you use our data or method, please cite our paper:
 ```bibtex
