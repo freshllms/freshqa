@@ -9,6 +9,9 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 
 If you find any updates or misclassifications in our FreshQA questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
+### FreshQA's AutoRater
+We are currently in the process of creating an AutoRater for our FreshQA dataset.
+
 ## FreshPrompt
 [FreshPrompt Colab](https://colab.research.google.com/drive/1RbGXczxI5dn9LjcJm6ndpimELihbjdYL?usp=sharing).
 
