@@ -10,7 +10,7 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 If you find any updates or misclassifications in our FreshQA questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
 ## FreshPrompt
-[FreshPrompt Colab](https://colab.research.google.com/drive/1-tDFYUakVa0zEyyyzjSaCQXRFTL01zGi?usp=sharing).
+[FreshPrompt Colab](https://colab.research.google.com/drive/1RbGXczxI5dn9LjcJm6ndpimELihbjdYL?usp=sharing).
 
 ## Acknowledgements 
 We thank Filipe Mesquita for their help in updating our FreshQA questions/answers.
