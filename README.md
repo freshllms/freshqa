@@ -5,9 +5,9 @@ This repository is currently a work in progress.
 Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214).
 
 ## FreshQA
-[FreshQA Nov 13, 2023](https://docs.google.com/spreadsheets/d/1pNCxHBsPm75P_J-eoveiEFzFCSX9oWYwK8mKVdxYONk/edit?usp=sharing).
+[FreshQA Nov 23, 2023](https://docs.google.com/spreadsheets/d/17Sr6TjxoBAtOp1Gon-yDborgS3G39gr9oSWpTJp-KmI/edit?usp=sharing).
 
-If you find any updates or misclassifications in our FreshQA questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
+We update our dataset weekly or upon request. If you find any updates or misclassifications in our FreshQA questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
 ### FreshQA's AutoRater
 We are currently in the process of creating an AutoRater for our FreshQA dataset.
