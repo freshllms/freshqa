@@ -46,7 +46,7 @@ We are grateful to the following people for their contributions to creating our 
 
 We are grateful to [SerpApi](https://serpapi.com) for their generous sponsorship of 20,000 searches for `FreshPrompt`.
 
-[<img src='serpapi.png' width='75'>](https://serpapi.com)
+[<img src='serpapi.png' width='50'>](https://serpapi.com)
 
 ## Citation
 
