@@ -23,16 +23,20 @@ To use `FreshEval` under a specific evaluation mode (`Relaxed` or `Strict`), ple
 2. Insert 3 new columns `D`, `E`, `F` in the new spreadsheet for model responses, evaluation rating, evaluation explanation, respectively and save your model's responses in column `D` (see our sample evaluation spreadsheet below).  
 3. Run the associated `FreshEval` notebook with the evaluation mode. Note that for demonstration purposes, we evaluated only the first 10 model responses. You can adjust the number as needed. 
 
-Here are our `FreshEval` notebooks:
+Here are our `FreshEval` notebooks.
 
-* [FreshEval (Relaxed) notebook](https://colab.research.google.com/drive/1mFDg-KZQLDSh_drwoXm9VL7ItfreXGJw?usp=sharing), [sample evaluation spreadsheet](https://docs.google.com/spreadsheets/d/1rmycAEgBZaPoBbMOlZNJRxd-9yXwmCwt9BrHHx5GbAA/edit?usp=sharing), [sample evaluation results](https://docs.google.com/spreadsheets/d/1j6HH879cwGb5ZIT5jFGO47ftoqzmIigz1lQ_g8wTGkA/edit?usp=sharing)
+FreshEval (Relaxed) notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mFDg-KZQLDSh_drwoXm9VL7ItfreXGJw?usp=sharing)
+* [sample evaluation spreadsheet](https://docs.google.com/spreadsheets/d/1rmycAEgBZaPoBbMOlZNJRxd-9yXwmCwt9BrHHx5GbAA/edit?usp=sharing)
+* [sample evaluation results](https://docs.google.com/spreadsheets/d/1j6HH879cwGb5ZIT5jFGO47ftoqzmIigz1lQ_g8wTGkA/edit?usp=sharing)
 
-* [FreshEval (Strict) notebook](https://colab.research.google.com/drive/1Euim1Tz-jqT1zuBTkH_RfwpEENp_29R9?usp=sharing), [sample evaluation spreadsheet](https://docs.google.com/spreadsheets/d/1QJq8OJwUVz_gd7fP-pAaT_0qcm9oj2__90CjliLQE_s/edit?usp=sharing), [sample evaluation results](https://docs.google.com/spreadsheets/d/1pRGQjg8CZVku664H20mSjHwua7EAvSzPcb_Cozwz3yA/edit?usp=sharing)
+FreshEval (Strict) notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Euim1Tz-jqT1zuBTkH_RfwpEENp_29R9?usp=sharing)
+* [sample evaluation spreadsheet](https://docs.google.com/spreadsheets/d/1QJq8OJwUVz_gd7fP-pAaT_0qcm9oj2__90CjliLQE_s/edit?usp=sharing)
+* [sample evaluation results](https://docs.google.com/spreadsheets/d/1pRGQjg8CZVku664H20mSjHwua7EAvSzPcb_Cozwz3yA/edit?usp=sharing)
 
 ## FreshPrompt
 
 
-[FreshPrompt notebook](https://colab.research.google.com/drive/1RbGXczxI5dn9LjcJm6ndpimELihbjdYL?usp=sharing).
+FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RbGXczxI5dn9LjcJm6ndpimELihbjdYL?usp=sharing).
 
 ## Acknowledgements
 
