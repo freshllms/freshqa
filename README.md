@@ -19,7 +19,7 @@ To facilitate future evaluations, we have developed `FreshEval`, a simple automa
 
 To use `FreshEval` under a specific evaluation mode (`Relaxed` or `Strict`), please follow the instructions below:
 
-1. Make a copy of our latest data spreadsheet and store it in your Google Drive with a new filename (e.g., `fresheval_relaxed` or `fresheval_strict`)
+1. Make a copy of our latest data spreadsheet and store it in your Google Drive with a new filename (e.g., `fresheval_relaxed` or `fresheval_strict`).
 2. Insert 3 new columns `D`, `E`, `F` in the new spreadsheet for model responses, evaluation rating, evaluation explanation, respectively and save your model's responses in column `D` (see our sample evaluation spreadsheet below).  
 3. Run the associated `FreshEval` notebook with the evaluation mode. Note that for demonstration purposes, we evaluated only the first 10 model responses. You can adjust the number as needed. 
 
@@ -33,10 +33,20 @@ FreshEval (Strict) notebook: [![Using](https://colab.research.google.com/assets/
 * [sample evaluation spreadsheet](https://docs.google.com/spreadsheets/d/1QJq8OJwUVz_gd7fP-pAaT_0qcm9oj2__90CjliLQE_s/edit?usp=sharing)
 * [sample evaluation results](https://docs.google.com/spreadsheets/d/1pRGQjg8CZVku664H20mSjHwua7EAvSzPcb_Cozwz3yA/edit?usp=sharing)
 
+### Accuracy
+
+
+After obtaining TRUE/FALSE ratings for model responses, follow these instructions to calculate the accuracy for each question category:
+
+1. Download our latest data spreadsheet in a Comma Separated Values (.csv) format and store it as `freshqa.csv`.
+2. Open this notebook [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18LlmElJkt0joCkkpQffa1UtF9dtUdLmC?usp=sharing) and upload the `freshqa.csv` file to the session storage (`Files > Upload file to session storage`).
+3. Replace the existing ratings in the notebook with your ratings and run the notebook.
+
+
 ## FreshPrompt
 
 
-FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RbGXczxI5dn9LjcJm6ndpimELihbjdYL?usp=sharing).
+FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RbGXczxI5dn9LjcJm6ndpimELihbjdYL?usp=sharing)
 
 ## Acknowledgements
 
