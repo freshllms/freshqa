@@ -33,10 +33,7 @@ FreshEval (Strict) notebook: [![Using](https://colab.research.google.com/assets/
 * [sample evaluation spreadsheet](https://docs.google.com/spreadsheets/d/1QJq8OJwUVz_gd7fP-pAaT_0qcm9oj2__90CjliLQE_s/edit?usp=sharing)
 * [sample evaluation results](https://docs.google.com/spreadsheets/d/1pRGQjg8CZVku664H20mSjHwua7EAvSzPcb_Cozwz3yA/edit?usp=sharing)
 
-### Accuracy
-
-
-After obtaining TRUE/FALSE ratings for model responses, follow these instructions to calculate the accuracy for each question category:
+After obtaining TRUE/FALSE ratings for model responses, follow the instructions below to calculate the accuracy for each question category:
 
 1. Download our latest data spreadsheet in a Comma Separated Values (.csv) format and store it as `freshqa.csv`.
 2. Open this notebook [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18LlmElJkt0joCkkpQffa1UtF9dtUdLmC?usp=sharing) and upload the `freshqa.csv` file to the session storage (`Files > Upload file to session storage`).
