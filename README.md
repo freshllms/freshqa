@@ -43,7 +43,7 @@ After obtaining TRUE/FALSE ratings for model responses, follow the instructions 
 ## FreshPrompt
 
 
-FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RbGXczxI5dn9LjcJm6ndpimELihbjdYL?usp=sharing)
+FreshPrompt notebook: [![Using](https://colab.research.google.com/drive/1CkGQrLXbRGcn4XyshXSQsrDaJ9oFMXgm?usp=sharing)
 
 ## Acknowledgements
 
