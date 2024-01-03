@@ -5,9 +5,9 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 
 ## FreshQA
 
-[FreshQA Jan 3, 2024](https://docs.google.com/spreadsheets/d/1kAJp9zZ-RnhYtPo_mEDDv6YBHO66UJhE3pRgaCeo5jQ/edit?usp=sharing).
+[FreshQA Jan 3, 2024](https://docs.google.com/spreadsheets/d/1kAJp9zZ-RnhYtPo_mEDDv6YBHO66UJhE3pRgaCeo5jQ/edit?usp=sharing)
 
-[FreshQA Dec 26, 2023](https://docs.google.com/spreadsheets/d/1TCZWzUBkKHkdjXhyYZ-pAsSlP4W1RC_SOkEwTqkNRHQ/edit?usp=sharing).
+[FreshQA Dec 26, 2023](https://docs.google.com/spreadsheets/d/1TCZWzUBkKHkdjXhyYZ-pAsSlP4W1RC_SOkEwTqkNRHQ/edit?usp=sharing)
 
 **Next update:** Jan 10, 2024
 
