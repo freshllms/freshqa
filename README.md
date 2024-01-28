@@ -3,11 +3,14 @@
 
 Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214).
 
+:star: Our data and methods have been used for the development of recent large language models (LLMs) including Bard/Gemini, [Perplexity.AI's Online LLMs](https://blog.perplexity.ai/blog/introducing-pplx-online-llms), and [You.com](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms) :star:
+
 ## FreshQA
 
+[FreshQA Jan 28, 2024](https://docs.google.com/spreadsheets/d/1Kfi7xpi9s2wOB97HDX76TAF3O_7jps0DFi4_LSNk6oM/edit?usp=sharing)
 [FreshQA Jan 26, 2024](https://docs.google.com/spreadsheets/d/1TmAixtE3wfMhXWFSn_1mK7PSXriQ6slZVmNs-bJpmdo/edit?usp=sharing)
 
-**Next update:** Feb 2, 2024
+**Next update:** Feb 4, 2024
 
 We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
