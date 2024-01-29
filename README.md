@@ -5,6 +5,12 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 
 :star: Our data and methods have been used for the development of recent large language models (LLMs) including Bard/Gemini, [Perplexity.AI's Online LLMs](https://blog.perplexity.ai/blog/introducing-pplx-online-llms), and [You.com](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms) :star:
 
+Quick links
+
+[FreshQA](https://github.com/freshllms/freshqa?tab=readme-ov-file#freshqa)
+[FreshPrompt](https://github.com/freshllms/freshqa?tab=readme-ov-file#freshprompt)
+[FreshEval](https://github.com/freshllms/freshqa?tab=readme-ov-file#fresheval)
+
 ## FreshQA
 
 [FreshQA Jan 28, 2024](https://docs.google.com/spreadsheets/d/1Kfi7xpi9s2wOB97HDX76TAF3O_7jps0DFi4_LSNk6oM/edit?usp=sharing)
@@ -14,8 +20,11 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 
 We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
-### Automatic evaluation
+## FreshEval
 
+We believe that human evaluators possess the expertise and common sense required to detect issues like hallucinations, making them more reliable than automated evaluation metrics for assessing LLMs' factuality. However, researchers have the flexibility to adjust their evaluation methods if human evaluation proves challenging. An easily implemented alternative is to use standard metrics like F1/exact match or recall, which assess the overlap between the model response and the ground truth answer(s) (e.g., see You.com's recent [blog](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms) that uses `FreshQA`. Researchers can also use LLM-based automatic evaluation metrics such as [FactScore](https://arxiv.org/abs/2305.14251) or our `FreshEval` metric below.
+
+### Automatic evaluation
 
 To facilitate future evaluations, we have developed `FreshEval`, a simple automatic metric that uses few-shot in-context learning to teach an LLM to judge model responses, which achieved high agreement with human raters (see Appendix B in our paper for details).
 
