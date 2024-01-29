@@ -8,7 +8,9 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 Quick links
 
 [FreshQA](https://github.com/freshllms/freshqa?tab=readme-ov-file#freshqa)
+
 [FreshPrompt](https://github.com/freshllms/freshqa?tab=readme-ov-file#freshprompt)
+
 [FreshEval](https://github.com/freshllms/freshqa?tab=readme-ov-file#fresheval)
 
 ## FreshQA
