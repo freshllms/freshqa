@@ -28,7 +28,7 @@ We update our dataset weekly or upon request. If you find any updates or misclas
 ## FreshPrompt
 
 
-FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CkGQrLXbRGcn4XyshXSQsrDaJ9oFMXgm?usp=sharing)
+FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YKL3wN1LdaY5Aqlz8IRlag7zzMr7FSTQ?usp=sharing)
 
 
 ## FreshEval
