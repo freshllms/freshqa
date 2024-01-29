@@ -13,7 +13,9 @@ Quick links
 
 [FreshEval](https://github.com/freshllms/freshqa?tab=readme-ov-file#fresheval)
 
+
 ## FreshQA
+
 
 [FreshQA Jan 28, 2024](https://docs.google.com/spreadsheets/d/1Kfi7xpi9s2wOB97HDX76TAF3O_7jps0DFi4_LSNk6oM/edit?usp=sharing)
 [FreshQA Jan 26, 2024](https://docs.google.com/spreadsheets/d/1TmAixtE3wfMhXWFSn_1mK7PSXriQ6slZVmNs-bJpmdo/edit?usp=sharing)
@@ -22,11 +24,20 @@ Quick links
 
 We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
+
+## FreshPrompt
+
+
+FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CkGQrLXbRGcn4XyshXSQsrDaJ9oFMXgm?usp=sharing)
+
+
 ## FreshEval
+
 
 We believe that human evaluators possess the expertise and common sense required to detect issues like hallucinations, making them more reliable than automated evaluation metrics for assessing LLMs' factuality. However, researchers have the flexibility to adjust their evaluation methods if human evaluation proves challenging. An easily implemented alternative is to use standard metrics like F1/exact match or recall, which assess the overlap between the model response and the ground truth answer(s) (e.g., see You.com's recent [blog](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms) that uses `FreshQA`. Researchers can also use LLM-based automatic evaluation metrics such as [FactScore](https://arxiv.org/abs/2305.14251) or our `FreshEval` metric below.
 
 ### Automatic evaluation
+
 
 To facilitate future evaluations, we have developed `FreshEval`, a simple automatic metric that uses few-shot in-context learning to teach an LLM to judge model responses, which achieved high agreement with human raters (see Appendix B in our paper for details).
 
@@ -52,11 +63,6 @@ After obtaining TRUE/FALSE ratings for model responses, follow the instructions 
 2. Open this notebook [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18LlmElJkt0joCkkpQffa1UtF9dtUdLmC?usp=sharing) and upload the `freshqa.csv` file to the session storage (`Files > Upload file to session storage`).
 3. Replace the existing ratings in the notebook with your ratings and run the notebook.
 
-
-## FreshPrompt
-
-
-FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CkGQrLXbRGcn4XyshXSQsrDaJ9oFMXgm?usp=sharing)
 
 ## Acknowledgements
 
