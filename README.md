@@ -35,7 +35,7 @@ FreshPrompt notebook: [![Using](https://colab.research.google.com/assets/colab-b
 ## FreshEval
 
 
-We believe that human evaluators possess the expertise and common sense required to detect issues like hallucinations, making them more reliable than automated evaluation metrics for assessing LLMs' factuality. However, researchers have the flexibility to adjust their evaluation methods if human evaluation proves challenging. An easily implemented alternative is to use standard metrics like F1/exact match or recall, which assess the overlap between the model response and the ground truth answer(s) (e.g., see You.com's recent [blog](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms) that uses `FreshQA`. Researchers can also use LLM-based automatic evaluation metrics such as [FactScore](https://arxiv.org/abs/2305.14251) or our `FreshEval` metric below.
+We believe that human evaluators possess the expertise and common sense required to detect issues like hallucinations, making them more reliable than automated evaluation metrics for assessing LLMs' factuality. However, researchers have the flexibility to adjust their evaluation methods if human evaluation proves challenging. An easily implemented alternative is to use standard metrics like F1/exact match or recall, which assess the overlap between the model response and the ground truth answer(s) (e.g., see You.com's recent [blog](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms) where they report `FreshQA` recall). Researchers can also use LLM-based automatic evaluation metrics such as [FactScore](https://arxiv.org/abs/2305.14251) or our `FreshEval` metric below.
 
 ### Automatic evaluation
 
