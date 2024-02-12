@@ -45,6 +45,8 @@ To use `FreshEval` under a specific evaluation mode (`Relaxed` or `Strict`), ple
 2. Insert 3 new columns `D`, `E`, `F` in the new spreadsheet for model responses, evaluation rating, evaluation explanation, respectively and save your model's responses in column `D` (see our sample evaluation spreadsheet below).  
 3. Run the associated `FreshEval` notebook with the evaluation mode. Note that for demonstration purposes, we evaluated only the first 10 model responses. You can adjust the number as needed. 
 
+**Note:** Currently, we recommend `gpt-4-1106-preview` over `gpt-4-0125-preview` for `FreshEval` as it yielded slightly better agreement with human annotations in our small-scale evaluation.
+
 Here are our `FreshEval` notebooks.
 
 FreshEval (Relaxed) notebook: [![Using](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mFDg-KZQLDSh_drwoXm9VL7ItfreXGJw?usp=sharing)
