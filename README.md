@@ -20,10 +20,6 @@ Quick links
 
 [FreshQA Feb 5, 2024](https://docs.google.com/spreadsheets/d/1UZOJ_316tSJJjZuRnmPEoxxHFFW1aLiqYh0PzKpW0GQ/edit?usp=sharing)
 
-[FreshQA Jan 28, 2024](https://docs.google.com/spreadsheets/d/1Kfi7xpi9s2wOB97HDX76TAF3O_7jps0DFi4_LSNk6oM/edit?usp=sharing)
-
-[FreshQA Jan 26, 2024](https://docs.google.com/spreadsheets/d/1TmAixtE3wfMhXWFSn_1mK7PSXriQ6slZVmNs-bJpmdo/edit?usp=sharing)
-
 **Next update:** Feb 19, 2024
 
 We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
