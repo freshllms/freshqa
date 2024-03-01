@@ -72,7 +72,7 @@ We thank Peter Hart and Filipe Mesquita for their help in updating our `FreshQA`
 
 We are grateful to the following people for their contributions to creating our original FreshQA dataset: Marzena Karpinska, Dustin Tran, Daniel Cer, Sam Fullerton, Elizabeth Clark, Nishant Raj, Xiaoyu Song, Yapei Chang, Yixiao Song, Nader Akoury, Ankita Gupta, Bill Ray, Chau Pham, Wenlong Zhao, Maximilian Mozes, Simeng Sun, Ronan Salz, Kalpesh Krishna, Katherine Thai, Kanishka Misra, Salaheddin Alzu'bi, Erica Cai, Thibault Sellam, Jiao Sun, Dhruv Agarwal, Tessa Masis, Andrew Drozdov, Brian Lester, George Wei, Naveen Jafer Nizar, Shufan Wang, Youngwoo Kim, and Shib Sankar Dasgupta.
 
-We are also grateful to [SerpApi](https://serpapi.com) for their generous sponsorship of 10,000 searches for `FreshPrompt`'s users upon its release.
+We are also grateful to SerpApi for their generous sponsorship of 10,000 searches for `FreshPrompt`'s users upon its release.
 
 
 ## Citation
