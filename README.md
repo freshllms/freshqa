@@ -3,7 +3,7 @@
 
 Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214).
 
-:star: Our data and method have inspired or been used for the development of recent large language models (LLMs) including [Bard/Gemini](https://bard.google.com), [Perplexity.AI's Online LLMs](https://blog.perplexity.ai/blog/introducing-pplx-online-llms), and [You.com](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms) :star:
+:star: Our data and method have inspired or been used for the development of recent large language models (LLMs) including [Bard/Gemini](https://bard.google.com), [Perplexity.AI's Online LLMs](https://blog.perplexity.ai/blog/introducing-pplx-online-llms), [You.com](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms), and [Contextual AI](https://contextual.ai/introducing-rag2) :star:
 
 Quick links
 
