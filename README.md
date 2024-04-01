@@ -20,7 +20,7 @@ Quick links
 
 **Next update:** Apr 8, 2024
 
-Older version:
+Older versions:
 
 [FreshQA Mar 25, 2024](https://docs.google.com/spreadsheets/d/1DLTGhLCmOgau-np1oQqoeRRyd7Ow6y0bJHmNFrsPmeQ/edit?usp=sharing)
 
