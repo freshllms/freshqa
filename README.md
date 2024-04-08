@@ -16,9 +16,9 @@ Quick links
 
 ## FreshQA
 
-[FreshQA Apr 15, 2024](https://docs.google.com/spreadsheets/d/1nDEWXXG2VcXEktYiLhQ8QWmw4DFshiodgGh6A4dlgUQ/edit?usp=sharing)
+[FreshQA Apr 8, 2024](https://docs.google.com/spreadsheets/d/1nDEWXXG2VcXEktYiLhQ8QWmw4DFshiodgGh6A4dlgUQ/edit?usp=sharing)
 
-**Next update:** Apr 8, 2024
+**Next update:** Apr 15, 2024
 
 Older versions:
 
