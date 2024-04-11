@@ -20,6 +20,8 @@ Quick links
 
 **Next update:** Apr 15, 2024
 
+We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
+
 Older versions:
 
 [FreshQA Apr 1, 2024](https://docs.google.com/spreadsheets/d/1L9V0pRqyBl1476zyQh32NquCnv7-pe3Y7VOfGPwQTDo/edit?usp=sharing)
@@ -33,8 +35,6 @@ Older versions:
 [FreshQA Mar 4, 2024](https://docs.google.com/spreadsheets/d/1ta7vIcCxShdFWEPY2AMt-F1DFmpfa2j0wewwJO3mC60/edit?usp=sharing)
 
 [FreshQA Feb 26, 2024](https://docs.google.com/spreadsheets/d/1V6nIxVTI9tqZ-wfgK-uFuUPiGEa1Zmnz53OeGbaNtO0/edit?usp=sharing)
-
-We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
 
 ## FreshPrompt
