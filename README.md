@@ -16,13 +16,15 @@ Quick links
 
 ## FreshQA
 
-[FreshQA Apr 29, 2024](https://docs.google.com/spreadsheets/d/1qWhTS1aR57eHa6LQlYyJKEnXaItlQ0_19vYrIPxMtI0/edit?usp=sharing)
+[FreshQA May 6, 2024](https://docs.google.com/spreadsheets/d/1i1vqjOvGh2LQ9L_AimalzezuU-AQDANubvh4OE-iJcs/edit?usp=sharing&resourcekey=0-NbPHx4Q6KJHVTnqGDD2PbQ)
 
 **Next update:** May 6, 2024
 
 We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
 Older versions:
+
+[FreshQA Apr 29, 2024](https://docs.google.com/spreadsheets/d/1qWhTS1aR57eHa6LQlYyJKEnXaItlQ0_19vYrIPxMtI0/edit?usp=sharing)
 
 [FreshQA Apr 22, 2024](https://docs.google.com/spreadsheets/d/1dI54REjfTpFCrvpXvpO1D1QeAXRuTrLbvenjklmuj8k/edit?usp=sharing)
 
