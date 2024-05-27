@@ -16,7 +16,7 @@ Quick links
 
 ## FreshQA
 
-[FreshQA May 27](https://docs.google.com/spreadsheets/d/1cPtDoCgBG3weih7AuAnXk9jsgEH8XMWYHzKMD1OgX-4/edit?usp=sharing)
+[FreshQA May 27, 2024](https://docs.google.com/spreadsheets/d/1cPtDoCgBG3weih7AuAnXk9jsgEH8XMWYHzKMD1OgX-4/edit?usp=sharing)
 
 **Next update:** June 3, 2024
 
@@ -24,7 +24,7 @@ We update our dataset weekly or upon request. If you find any updates or misclas
 
 Older versions:
 
-[FreshQA May 20](https://docs.google.com/spreadsheets/d/1EWc3w_dBfJONl_HtL7LtRsmZ-XYi-gKFCkUZAs62o_I/edit?usp=sharing)
+[FreshQA May 20, 2024](https://docs.google.com/spreadsheets/d/1EWc3w_dBfJONl_HtL7LtRsmZ-XYi-gKFCkUZAs62o_I/edit?usp=sharing)
 
 [FreshQA May 13, 2024](https://docs.google.com/spreadsheets/d/1p0qXk1iqSwV9Pq2DpivwtxfKUjLyK_n-k3jgtlDb_54/edit?usp=sharing&resourcekey=0-rddWsLSn8JaYS1PygZPVYw)
 
