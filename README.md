@@ -18,7 +18,7 @@ Quick links
 
 [FreshQA August 26, 2024](https://docs.google.com/spreadsheets/d/1l6gLnJvHPHL80RM2FtNumkD6szsvtp8E7JV7cR61lX0/edit?usp=sharing)
 
-**Next update:** August 26, 2024
+**Next update:** September 2, 2024
 
 
 We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
