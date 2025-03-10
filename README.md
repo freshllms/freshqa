@@ -18,7 +18,7 @@ Quick links
 
 [FreshQA March 10, 2025](https://docs.google.com/spreadsheets/d/1pR1ETI3cX9_295HhfPfRUOHNlEYE5aJhbNFqN7DJ5Xk/edit?usp=sharing)
 
-**Next update:** March 10, 2025
+**Next update:** March 17, 2025
 
 We update our dataset weekly or upon request. If you find any updates or misclassifications in our `FreshQA` questions or answers that we may have overlooked, please notify us by commenting on the dataset spreadsheet above or sending an email to freshllms@google.com.
 
