@@ -5,6 +5,9 @@ Data and code for our paper [FreshLLMs: Refreshing Large Language Models with Se
 
 :star: Our data and method have inspired or been used for the development of recent large language models (LLMs) including [Google's Gemini](https://gemini.google.com), [Perplexity.AI's Online LLMs](https://blog.perplexity.ai/blog/introducing-pplx-online-llms), [You.com](https://about.you.com/introducing-the-you-api-web-scale-search-for-llms), and [Contextual AI's RAG 2.0](https://contextual.ai/introducing-rag2) :star:
 
+:star: We are excited to introduce [SealQA](https://arxiv.org/abs/2506.01062), a new evaluation benchmark that builds on FreshQA with a stronger focus on reasoning. SealQA is available at https://huggingface.co/datasets/vtllms/sealqa and has been used to benchmark recent search-augmented LLMs and search agents, e.g., see [Kimi-Researcher
+'s blog](https://moonshotai.github.io/Kimi-Researcher/) :star:
+
 Quick links
 
 [FreshQA](https://github.com/freshllms/freshqa?tab=readme-ov-file#freshqa)
