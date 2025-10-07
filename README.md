@@ -18,7 +18,7 @@ Quick links
 
 ## FreshQA
 
-[FreshQA September 30, 2025](https://docs.google.com/spreadsheets/d/1c5ktMZWk4tg9PMikA40_t9cH2WoFRxquCRAElnanMEQ/edit?usp=sharing)
+[FreshQA October 7, 2025](https://docs.google.com/spreadsheets/d/1KBrntvgshX3KWV68UQYyOzAN2wRl6YroQBSo3cZ1eBI/edit?usp=sharing)
 
 **Next update:** October 7, 2025
 
@@ -26,6 +26,8 @@ We update our dataset weekly or upon request. If you find any updates or misclas
 
 
 Older versions:
+
+[FreshQA September 30, 2025](https://docs.google.com/spreadsheets/d/1c5ktMZWk4tg9PMikA40_t9cH2WoFRxquCRAElnanMEQ/edit?usp=sharing)
 
 [FreshQA August 27, 2025](https://docs.google.com/spreadsheets/d/1q9YyuCY41XwiX6Ke05z2szz6kKmmD6mM__fmPjwAzpA/edit?usp=sharing)
 
